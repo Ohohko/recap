@@ -122,6 +122,9 @@ console.log(fullAddresses);
 
 // Exercise 1: Use the map method to put the names of all the friends of John Doe in a single array (use also the flat method)
 
+
+
+
 // Exercise 2: Use the map method to get the full addresses (street, city, state, and zip) of all the people in the data array
 
 // Exercise 3: Use the map method to get the hobbies of all the people in the data array in a single array
