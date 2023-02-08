@@ -1,11 +1,11 @@
 // Exercise 1: Get the element with the ID of "header"
-
+header = document.getElementById("header")
 // Exercise 2: Get all elements with the class name of "list-item"
-
+allList = document.getElementsByClassName("list-item");
 // Exercise 3: Get the first element that matches the CSS selector of ".list-item"
-
+document.querySelector(".list-item")
 // Exercise 4: Get all elements that match the CSS selector of ".list-item"
-
+document.querySelectorAll(".list-item")
 // Exercise 5: Get all child elements of the element with the ID of "main-content"
 
 // Exercise 6: Get all descendant elements of the element with the ID of "main-content"
